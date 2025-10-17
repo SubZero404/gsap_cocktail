@@ -48,7 +48,7 @@ const Art = () => {
         <h2 className="will-fade">The ART</h2>
         <div className="cocktail-img">
           <img
-            src="/public/images/under-img.jpg"
+            src="/images/under-img.jpg"
             alt="under-img"
             className="abs-center size-full masked-img object-contain"
           />
